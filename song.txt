@@ -1,7 +1,11 @@
 errw1
 dffgf2
 sdgghjgfd3
-sdf4
-df5
+was deleted two string in 2.br
 
 new branch1
+
+changes in secondbranch:
+kjghfds
+kjhgfoıuytre
+mnbvghnmö
